@@ -43,6 +43,7 @@ An analysis of regional sales by product revealed that in the Netherlands, there
 - Main Insight 3: The Regency Cakestand, Jumbo Bag Red Retrospot, and Cream Hanging Heart T-Light Holder are consistently high-performing products across all seasons. The Regency Cakestand, in particular, peaks in Spring and Winter, suggesting it may be linked to gifting or seasonal events.
  Seasonal products perform exceptionally well in Fall and Summer. The Rabbit Night Light and Paper Chain Kit (50’s Christmas) ranked in the top three by revenue during Fall, while the Picnic Basket Wicker (60 Pieces) was by far the top performer in Summer, likely due   to outdoor and leisure demand.
 ### Regional Sales Performance
+![](monthly_breakdown.png), ![](pie_season.png)
 -	Main Insight 1: The company is heavily reliant on the United Kingdom, which contributes 86.77% of total revenue. While this shows strong local dominance, it also highlights a concentration risk and the need to diversify.
 -	Main Insight 2: Europe (without the UK) generates over 85.11% of its international revenue, significantly outperforming other regions such as Oceania (9.29%), Asia (4.75%), and the Americas (0.52%).
 -	Main Insight 3: Within Europe, the Netherlands stands out as the top-performing international market, generating £284K, followed by Ireland, Germany, and France. These countries consistently contribute over £180K each, suggesting established customer bases worth developing.
