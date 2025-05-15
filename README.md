@@ -32,3 +32,33 @@ An analysis of regional sales by product revealed that in the Netherlands, there
 
 ## Insight Deep Dive
 ### Top Products and Categories
+- Main Insight 1: The Regency Cake Stand (3 Tier) is the highest revenue-generating product, with over £140,000 earned despite relatively low quantity sold. This indicates it's a premium product with a high price point and strong individual value.
+- Main Insight 2: The Bag category is the company’s best overall performer, leading both in total revenue and units sold, making it the most consistently high-performing product group.
+- Main Insight 3: After segmenting products into performance groups, we found that the "Best Performer" group (high revenue and quantity) drives the majority of income. These products are critical for profitability and must always be in stock; strong inventory management is essential.
+- Main Insight 4: Products in the "High Margin, Low Reach" group are also important — they represent premium goods that generate high income per sale despite lower volume. These are ideal for targeted marketing or gifting promotions.
+- Main Insight 5:  The weakest segments are "Low Performer" and "High Volume, Low Income" products. These may be consuming storage and logistical resources without strong returns. We recommend testing bundling strategies or even phasing out underperformers that consistently show poor results.
+### Seasonal Trends
+- Main Insight 1: Fall is the strongest sales season, generating over £3M in revenue, followed by Summer and Winter. This highlights a clear opportunity for focused promotional campaigns in Q3 and Q4.
+- Main Insight 2: Revenue peaks in October and November, reflecting a strong pre-holiday buying cycle. Notably, November alone brought in over £1.13M, making it the single highest-grossing month in the dataset.
+- Main Insight 3: The Regency Cakestand, Jumbo Bag Red Retrospot, and Cream Hanging Heart T-Light Holder are consistently high-performing products across all seasons. The Regency Cakestand, in particular, peaks in Spring and Winter, suggesting it may be linked to gifting or seasonal events.
+ Seasonal products perform exceptionally well in Fall and Summer. The Rabbit Night Light and Paper Chain Kit (50’s Christmas) ranked in the top three by revenue during Fall, while the Picnic Basket Wicker (60 Pieces) was by far the top performer in Summer, likely due   to outdoor and leisure demand.
+### Regional Sales Performance
+-	Main Insight 1: The company is heavily reliant on the United Kingdom, which contributes 86.77% of total revenue. While this shows strong local dominance, it also highlights a concentration risk and the need to diversify.
+-	Main Insight 2: Europe (without the UK) generates over 85.11% of its international revenue, significantly outperforming other regions such as Oceania (9.29%), Asia (4.75%), and the Americas (0.52%).
+-	Main Insight 3: Within Europe, the Netherlands stands out as the top-performing international market, generating £284K, followed by Ireland, Germany, and France. These countries consistently contribute over £180K each, suggesting established customer bases worth developing.
+-	Main Insight 4: Category-level analysis shows that Bags and Boxes are consistently the best-selling items across international markets — particularly in the Netherlands, where their revenue outpaces other categories significantly. This insight supports the idea of region-specific promotions tailored to popular product lines.
+## Recommendations
+- Strengthen stock and marketing for high-performing products
+ Ensure continuous availability of top sellers like the Regency Cakestand, Cream Hanging Heart T-Light Holder, and Jumbo Bag Red Retrospot. These products are the companies revenue drivers .
+- Prioritize inventory planning for Q3–Q4 and event-driven sales
+  With Fall and November being peak revenue periods, it’s essential to plan stock replenishment and promotions early. Seasonal products like Christmas kits and gift-ready lighting should be emphasized in October campaigns.
+- Target expansion and marketing in high-potential European markets
+  Focus digital campaigns on the Netherlands, Ireland, Germany, and France, which already show traction. These countries are proven contributors and offer scalable international revenue opportunities.
+- Reassess underperforming product lines
+ Products classified as Low Performers or High Volume, Low Income may not be worth continued investment. 
+
+
+
+
+
+
