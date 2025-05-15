@@ -22,11 +22,13 @@ During this one-year period, our company generated a total revenue of £8,519,67
 The most promising region is Europe, where we made £1,273,943, accounting for 85.11% of our revenue outside of the UK. Other regions generate significantly less revenue, such as Oceania (£139,071), Asia (£71,173), and the Americas (£8,839).
 Four European countries account for 73% of the total European revenue. These countries are:
 
-Netherlands: £284,675
-Ireland: £257,654
-Germany: £205,389
-France: £183,802
+-Netherlands: £284,675
+-Ireland: £257,654
+-Germany: £205,389
+-France: £183,802
 
-The next highest contributor, Spain, generated only £55,000, indicating a steep drop-off beyond these core markets. These four European countries already show a big demand in our products and also share  market similarities with the UK, making them ideal targets for strategic expansion
+The next highest contributor, Spain, generated only £55,000, indicating a steep drop-off beyond these core markets. These four European countries already show a big demand in our products and also share  market similarities with the UK, making them ideal targets for strategic expansion.
 An analysis of regional sales by product revealed that in the Netherlands, there is a particularly high demand for bag and box category products. This indicates  that a  targeted marketing campaign focusing on these categories significantly boost performance in that market.
 
+## Insight Deep Dive
+### Top Products and Categories
