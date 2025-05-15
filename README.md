@@ -14,7 +14,7 @@ Targeted SQL queries addressing key business questions are available here.
 An interactive Tableau dashboard to explore sales trends can be found here.
 ## Data Structure & Initial Checks
 The database for this analysis consists of three tables, online_sales, product_category and continents with more than 300,000 rows in total.
-![](images/)
+![](images/data_structure.png)
 These tables were joined and cleaned using SQL to ensure accurate analysis.
 # Executive Summary
 
