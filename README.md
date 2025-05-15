@@ -38,6 +38,7 @@ An analysis of regional sales by product revealed that in the Netherlands, there
 - Main Insight 4: Products in the "High Margin, Low Reach" group are also important. They represent premium goods that generate high income per sale despite lower volume. These are ideal for targeted marketing or gifting promotions.
 - Main Insight 5:  The weakest segments are "Low Performer" and "High Volume, Low Income" products. These may be consuming storage and logistical resources without strong returns. We recommend testing bundling strategies or phasing out underperformers consistently showing poor results.
 ### Seasonal Trends
+![](images/seasonal_1.png)
 - Main Insight 1: Fall is the strongest sales season, generating over £3M in revenue, followed by Summer and Winter. This highlights a clear opportunity for focused promotional campaigns in Q3 and Q4.
 - Main Insight 2: Revenue peaks in October and November, reflecting a strong pre-holiday buying cycle. Notably, November alone brought in over £1.13M, making it the single highest-grossing month in the dataset.
 - Main Insight 3: The Regency Cakestand, Jumbo Bag Red Retrospot, and Cream Hanging Heart T-Light Holder are consistently high-performing products across all seasons. The Regency Cakestand, in particular, peaks in Spring and Winter, suggesting it may be linked to gifting or seasonal events.
