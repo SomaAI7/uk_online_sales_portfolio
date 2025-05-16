@@ -17,7 +17,7 @@ The database for this analysis consists of three tables, online_sales, product_c
 ![](images/data_structure.png)
 These tables were joined and cleaned using SQL to ensure accurate analysis.
 # Executive Summary
-![](images/reg_exc.png)
+![](images/reg_exc2.png)
 During this one-year period, our company generated a total revenue of £8,519,675. While we operate globally, our primary market remains the UK, contributing 86.77% of the total revenue. While we operate globally, our data highlights significant opportunities for targeted expansion, particularly within Europe.
 The most promising region is Europe, where we made £1,273,943, accounting for 85.11% of our revenue outside of the UK. Other regions generate significantly less revenue, such as Oceania (£139,071), Asia (£71,173), and the Americas (£8,839).
 Four European countries account for 73% of the total European revenue. These countries are:
