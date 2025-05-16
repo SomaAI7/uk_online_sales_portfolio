@@ -31,6 +31,7 @@ The next highest contributor, Spain, generated only £55,000, indicating a steep
 An analysis of regional sales by product revealed that in the Netherlands, there is a particularly high demand for bag and box category products. This indicates  that a  targeted marketing campaign focusing on these categories significantly boost performance in that market.
 
 ## Insight Deep Dive
+![](images/top_p_d.png)
 ### Top Products and Categories
 - Main Insight 1: The Regency Cake Stand (3 Tier) is the highest revenue-generating product, with over £140,000 earned despite relatively low quantity sold. This indicates it's a premium product with a high price point and strong individual value.
 - Main Insight 2: The Bag category is the company’s best overall performer, leading both in total revenue and units sold, making it the most consistently high-performing product group.
