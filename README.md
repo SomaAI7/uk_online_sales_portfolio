@@ -43,6 +43,7 @@ An analysis of regional sales by product revealed that in the Netherlands, there
 ![](images/seasonal_1.png)
 - Main Insight 1: Fall is the strongest sales season, generating over £3M in revenue, followed by Summer and Winter. This highlights a clear opportunity for focused promotional campaigns in Q3 and Q4.
 - Main Insight 2: Revenue peaks in October and November, reflecting a strong pre-holiday buying cycle. Notably, November alone brought in over £1.13M, making it the single highest-grossing month in the dataset.
+  ![](images/product_seasonal.png)
 - Main Insight 3: The Regency Cakestand, Jumbo Bag Red Retrospot, and Cream Hanging Heart T-Light Holder are consistently high-performing products across all seasons. The Regency Cakestand, in particular, peaks in Spring and Winter, suggesting it may be linked to gifting or seasonal events.
  Seasonal products perform exceptionally well in Fall and Summer. The Rabbit Night Light and Paper Chain Kit (50’s Christmas) ranked in the top three by revenue during Fall, while the Picnic Basket Wicker (60 Pieces) was by far the top performer in Summer, likely due   to outdoor and leisure demand.
 ### Regional Sales Performance
