@@ -35,7 +35,7 @@ An analysis of regional sales by product revealed that in the Netherlands, there
 ### Top Products and Categories
 - Main Insight 1: The Regency Cake Stand (3 Tier) is the highest revenue-generating product, with over £140,000 earned despite relatively low quantity sold. This indicates it's a premium product with a high price point and strong individual value.
 - Main Insight 2: The Bag category is the company’s best overall performer, leading both in total revenue and units sold, making it the most consistently high-performing product group.
-  ![](images/Dashboard 1 (2)1.png)
+  ![](images/performance.png)
 - Main Insight 3: After segmenting products into performance groups, we found that the "Best Performer" group (high revenue and quantity) drives the majority of income. These products are critical for profitability and must always be in stock; strong inventory management is essential.
 - Main Insight 4: Products in the "High Margin, Low Reach" group are also important. They represent premium goods that generate high income per sale despite lower volume. These are ideal for targeted marketing or gifting promotions.
 - Main Insight 5:  The weakest segments are "Low Performer" and "High Volume, Low Income" products. These may be consuming storage and logistical resources without strong returns. We recommend testing bundling strategies or phasing out underperformers consistently showing poor results.
