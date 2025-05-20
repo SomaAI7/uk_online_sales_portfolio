@@ -23,7 +23,7 @@ rank_revenue < 11
 ORDER BY rank_revenue asc
 ;
 ```
-## Top 10 Best Performing item (Revenue)
+## Top 10 Best Performing item (Quantity)
 
 ```sql
 SELECT
