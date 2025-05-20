@@ -9,7 +9,7 @@ In this project, we analyzed a UK-based online retail dataset to uncover meaning
 -	Top-performing categories and products
 -	Monthly and seasonal sales trends
 -	Regional sales performance
-#### The SQL queries used to inspect and clean the data for this analysis can be found here[here](SQL/README.md).
+#### The SQL queries used to inspect and clean the data for this analysis can be found [here](SQL/README.md).
 #### Targeted SQL queries addressing key business questions are available [here](SQL/README2.md).
 #### An interactive Tableau dashboard to explore sales trends can be found [here].
 ## Data Structure & Initial Checks
