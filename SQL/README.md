@@ -229,7 +229,7 @@ SELECT
   *
 FROM `awesome-nimbus-448511-d2.portfolio_project.products_online_sales_updated_worksheet_2`
 ORDER BY Revenue desc
-
+```
 # Cleaning the Product_category table
 ## The dataset originally contains 3891 records. The cleaning process included removing duplicates, standardizing values, removing unnecassery columns.
 ## dataset can be find here
