@@ -302,8 +302,5 @@ DROP Column rn
 ```
 
 
-LIMIT 30
-```
-
 
 
