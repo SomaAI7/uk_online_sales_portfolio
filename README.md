@@ -49,9 +49,9 @@ An analysis of regional sales by product revealed that in the **Netherlands**, t
 ### Regional Sales Performance
 ![](images/regdown.png)
 -	Main Insight 1: The company is heavily reliant on the **United Kingdom**, which **contributes 86.77% of total revenue**. While this shows strong local dominance, it also highlights a concentration risk and the need to diversify.
--	Main Insight 2: Europe (without the UK) generates over 85.11% of its international revenue, significantly outperforming other regions such as Oceania (9.29%), Asia (4.75%), and the Americas (0.52%).
--	Main Insight 3: Within Europe, the Netherlands stands out as the top-performing international market, generating £284K, followed by Ireland, Germany, and France. These countries consistently contribute over £180K each, suggesting established customer bases worth developing.
--	Main Insight 4: Category-level analysis shows that Bags and Boxes are consistently the best-selling items across international markets — particularly in the Netherlands, where their revenue outpaces other categories significantly. This insight supports the idea of region-specific promotions tailored to popular product lines.
+-	Main Insight 2: **Europe (without the UK)** generates over **85.11% of its international revenue**, significantly outperforming other regions such as **Oceania (9.29%), Asia (4.75%), and the Americas (0.52%)**.
+-	Main Insight 3: Within Europe, the **Netherlands stands out as the top-performing international market**, generating **£284K**, followed by Ireland, Germany, and France. These countries consistently contribute over £180K each, suggesting established customer bases worth developing.
+-	Main Insight 4: Category-level analysis shows that **Bags and Boxes** are consistently the **best-selling items across international markets** — particularly in the Netherlands, where their revenue outpaces other categories significantly. This insight supports the idea of region-specific promotions tailored to popular product lines.
 ## Recommendations
 - Strengthen stock and marketing for high-performing products
  Ensure continuous availability of top sellers like the Regency Cakestand, Cream Hanging Heart T-Light Holder, and Jumbo Bag Red Retrospot. These products are the companies revenue drivers .
