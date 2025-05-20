@@ -229,6 +229,79 @@ SELECT
   *
 FROM `awesome-nimbus-448511-d2.portfolio_project.products_online_sales_updated_worksheet_2`
 ORDER BY Revenue desc
+
+# Cleaning the Product_category table
+## The dataset originally contains 3891 records. The cleaning process included removing duplicates, standardizing values, removing unnecassery columns.
+## dataset can be find here
+
+```sql
+SELECT
+  *
+FROM `awesome-nimbus-448511-d2.portfolio_project.product_category_wroksheet`
+;
+```
+## Step 1 Rename the columns. 
+```sql
+ALTER TABLE `awesome-nimbus-448511-d2.portfolio_project.product_category_wroksheet`
+RENAME COLUMN string_field_0 to StockCode,
+RENAME COLUMN string_field_1 to Description,
+RENAME COLUMN string_field_2 to Category
+;
+```
+
+## Step 2 Remove duplicates
+```sql
+CREATE OR REPLACE TABLE `awesome-nimbus-448511-d2.portfolio_project.cleaned_product_category` AS
+SELECT *
+FROM (
+  SELECT *,
+    ROW_NUMBER() OVER (PARTITION BY StockCode ORDER BY Description) AS rn
+  FROM `awesome-nimbus-448511-d2.portfolio_project.product_category_wroksheet`
+)
+WHERE rn = 1;
+```
+
+## Step 3 Standardizing values
+## Step 3.1 Standardize the category column by matching the follownig (Clip/Clips, Cup/Cups,Earing/Earings)
+
+
+```sql
+UPDATE `awesome-nimbus-448511-d2.portfolio_project.product_category_wroksheet`
+SET Category = CONCAT(Category, "S")
+WHERE Category in ( "CLIP" , "CUP", "EARRING" )
+;
+```
+
+
+## Step 3.2  Fixing  the unconsistent casing in the description column
+
+```sql
+UPDATE `awesome-nimbus-448511-d2.portfolio_project.product_category_wroksheet`
+SET Description = initcap(lower(trim(Description)))
+WHERE Description is not null
+;
+```
+## Step 3.3  Fixing  the unconsistent casing in the category column
+```sql
+UPDATE `awesome-nimbus-448511-d2.portfolio_project.product_category_wroksheet`
+SET Category = initcap(lower(trim(Category)))
+WHERE Category is not null
+;
+```
+
+## Step 4  drop the unnecessary columns ()
+```sql
+SELECT 
+  *
+FROM `awesome-nimbus-448511-d2.portfolio_project.cleaned_product_category`
+;
+
+
+ALTER TABLE `awesome-nimbus-448511-d2.portfolio_project.cleaned_product_category`
+DROP Column rn
+```
+
+
 LIMIT 30
 ```
 
