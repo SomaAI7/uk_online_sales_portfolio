@@ -11,7 +11,7 @@ In this project, we analyzed a UK-based online retail dataset to uncover meaning
 -	Regional sales performance
 #### The SQL queries used to inspect and clean the data for this analysis can be found [here](SQL/README.md).
 #### Targeted SQL queries addressing key business questions are available [here](SQL/README2.md).
-#### An interactive Tableau dashboard to explore sales trends can be found [here].
+#### An interactive Tableau dashboard to explore sales trends can be found [here](https://public.tableau.com/views/dashboard_17447961057310/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 ## Data Structure & Initial Checks
 The database for this analysis consists of three tables, **online_sales, product_category and continents** with more than **300,000 rows** in total.
 ![](images/data_structure.png)
